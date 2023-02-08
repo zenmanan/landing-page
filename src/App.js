@@ -16,7 +16,7 @@ function App() {
     <FaqComp />
     {/* Content */}
 
-    {/* <FooterComp /> */}
+    <FooterComp />
   </div>;
 }
 
